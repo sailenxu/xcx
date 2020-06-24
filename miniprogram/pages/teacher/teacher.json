@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "teacher",
+  "usingComponents": {
+    "teacherItem": "/components/teacherItem/teacherItem"
+  }
+}

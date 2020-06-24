@@ -1,0 +1,2 @@
+<!--components/teacherItem/teacherItem.wxml-->
+<view class="teacher">teacher</view>

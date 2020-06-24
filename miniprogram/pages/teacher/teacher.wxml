@@ -1,0 +1,5 @@
+<!--miniprogram/pages/teacher/teacher.wxml-->
+<text>teacher</text>
+<teacherItem/>
+<teacherItem/>
+<teacherItem/>
