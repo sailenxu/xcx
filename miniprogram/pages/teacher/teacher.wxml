@@ -1,5 +1,6 @@
 <!--miniprogram/pages/teacher/teacher.wxml-->
-<text>teacher</text>
+<text>{{teacherName}}</text>
+<view>{{teacherAge}}</view>
 <teacherItem/>
 <teacherItem/>
 <teacherItem/>
